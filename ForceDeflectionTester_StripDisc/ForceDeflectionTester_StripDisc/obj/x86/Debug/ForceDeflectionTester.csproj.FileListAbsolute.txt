@@ -1,0 +1,54 @@
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\ForceDeflectionTester.exe.config
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.exe
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.pdb
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\ForceDeflectionTester.exe
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\ForceDeflectionTester.pdb
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\QCChart2DNet.xml
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\QCRTGraphNet.xml
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.MainForm.resources
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.Properties.Resources.resources
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.UserFreePlotTextInputDialog.resources
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ForceDeflectionTesterFilesCopy\InTurnkeyShopBackup\june2\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\ForceDeflectionTester.exe.config
+C:\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\ForceDeflectionTester.exe
+C:\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\ForceDeflectionTester.pdb
+C:\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\QCChart2DNet.dll
+C:\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\QCRTGraphNet.dll
+C:\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\QCChart2DNet.xml
+C:\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\QCRTGraphNet.xml
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.MainForm.resources
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.Properties.Resources.resources
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.UserFreePlotTextInputDialog.resources
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.exe
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.pdb
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.TestStartUserInput.resources
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.CalibrationInput.resources
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.AxisScalingInput.resources
+C:\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.WriteTemperatureSetpointDialog.resources
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\ForceDeflectionTester.exe.config
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\ForceDeflectionTester.exe
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\ForceDeflectionTester.pdb
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\NationalInstruments.Common.dll
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\NationalInstruments.DAQmx.dll
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\NationalInstruments.Common.Native.dll
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\NationalInstruments.Common.xml
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\bin\Debug\NationalInstruments.DAQmx.xml
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.AxisScalingInput.resources
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.CalibrationInput.resources
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.MainForm.resources
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.Properties.Resources.resources
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.TestStartUserInput.resources
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.UserFreePlotTextInputDialog.resources
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.WriteTemperatureSetpointDialog.resources
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.csproj.GenerateResource.cache
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.csproj.CoreCompileInputs.cache
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.csproj.CopyComplete
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.exe
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.pdb
+C:\MSDApps\ForceDeflectionTester Code from STA Machine\ForceDeflectionTester\ForceDeflectionTester\obj\x86\Debug\ForceDeflectionTester.csprojAssemblyReference.cache

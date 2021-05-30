@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6D717F5F-34CC-40AD-B8A4-8073653BE357}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ForceDeflectionTester_StripDisc</RootNamespace>
+    <AssemblyName>ForceDeflectionTester_StripDisc</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NationalInstruments.Common, Version=17.5.40.49153, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\NationalInstruments.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="NationalInstruments.DAQmx, Version=19.6.40.1, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\NationalInstruments.DAQmx.dll</HintPath>
+    </Reference>
+    <Reference Include="QCChart2DNet">
+      <HintPath>..\..\..\..\Quinn-Curtis\DotNet\lib\QCChart2DNet.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="QCRTGraphNet">
+      <HintPath>..\..\..\..\Quinn-Curtis\DotNet\lib\QCRTGraphNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AxisScalingInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AxisScalingInput.Designer.cs">
+      <DependentUpon>AxisScalingInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalibrationInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalibrationInput.Designer.cs">
+      <DependentUpon>CalibrationInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForceDeflectionPlot.cs" />
+    <Compile Include="ForceDeflectionPlot.Designer.cs">
+      <DependentUpon>ForceDeflectionPlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestStartUserInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestStartUserInput.Designer.cs">
+      <DependentUpon>TestStartUserInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlRecordTimer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlRecordTimer.Designer.cs">
+      <DependentUpon>UserControlRecordTimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserFreePlotTextInputDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserFreePlotTextInputDialog.Designer.cs">
+      <DependentUpon>UserFreePlotTextInputDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WriteTemperatureSetpointDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WriteTemperatureSetpointDialog.Designer.cs">
+      <DependentUpon>WriteTemperatureSetpointDialog.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AxisScalingInput.resx">
+      <DependentUpon>AxisScalingInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalibrationInput.resx">
+      <DependentUpon>CalibrationInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TestStartUserInput.resx">
+      <DependentUpon>TestStartUserInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserFreePlotTextInputDialog.resx">
+      <DependentUpon>UserFreePlotTextInputDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WriteTemperatureSetpointDialog.resx">
+      <DependentUpon>WriteTemperatureSetpointDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
