@@ -694,6 +694,8 @@ namespace ForceDeflectionTester_StripDisc
             CloseFileStream.Close();
         }
 
+        //TestCommit to github
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
